@@ -1,4 +1,5 @@
-<img "width="997" height="717" alt="Image" src="https://github.com/user-attachments/assets/04e07cd4-ca79-4a98-97d1-9ac7048fbf64"/>
+<img width="997" height="717" alt="Image" src="https://github.com/Minorkennedy1/Observer-pattern/blob/b990c7c6887e9c2d3944dc26dd69ac4b9381128c/class%20Diagram.png" />
+
 Background: You're tasked with designing a real-time news subscription service for a media company. The system needs to notify subscribers about breaking news as soon as it's published by the news agency.
 
 Scenario Description: The system comprises two main components: NewsAgency and Subscriber.
